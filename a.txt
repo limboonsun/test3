@@ -2,3 +2,4 @@ line 1
 line 2c
 
 Java class
+1. clear folder
