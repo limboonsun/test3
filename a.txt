@@ -3,3 +3,4 @@ line 2c
 
 Java class
 1. clear folder
+2. purge all files
