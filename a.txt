@@ -4,3 +4,6 @@ line 2c
 Java class
 
 fix a hotfix
+
+1. clear folder
+2. purge all files
