@@ -8,3 +8,4 @@ fix a hotfix
 1. clear folder
 2. purge all files
 3. add a new java file
+4. add an image
