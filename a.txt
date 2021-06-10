@@ -9,3 +9,4 @@ fix a hotfix
 2. purge all files
 3. add a new java file
 4. add an image
+5. add a new folder
